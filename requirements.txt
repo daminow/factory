@@ -1,0 +1,13 @@
+aiogram==2.25.1
+celery==5.3.6
+redis==5.0.6
+aioredis==2.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+moviepy==1.0.3
+pydub==0.25.1
+gTTS==2.5.1
+Pillow==10.4.0
+tenacity==8.5.0
+
